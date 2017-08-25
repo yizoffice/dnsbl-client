@@ -192,3 +192,8 @@ SPFBL:
   type: ip
   127.0.0.2: Ignoring complaints of spamming by customers. 
   127.0.0.3: Dynamic IP, generic rDNS, no rDNS or invalid FCrDNS.
+Anti-Spam.CBL:
+  domain: cbl.anti-spam.org.cn
+  type: ip
+  127.0.8.2：Blacklisted
+  
